@@ -1,4 +1,4 @@
-##puzzle.py
+## `puzzle.py``
 
 ```python
 $pythonpuzzle.py
@@ -7,7 +7,7 @@ Foundpairs:1
 [(1847,173,48,5,319531)]
 ```
 
-##puzzle2.py
+## `puzzle2.py`
 
 ```python
 $pythonpuzzle2.py
